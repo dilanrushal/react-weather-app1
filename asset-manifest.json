@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/dilanrushal/react-weather-app1/static/css/main.b9fd563b.css",
+    "main.js": "/dilanrushal/react-weather-app1/static/js/main.e050e397.js",
+    "static/media/background.jpg": "/dilanrushal/react-weather-app1/static/media/background.a42ba6f1c03ec5ce3ba7.jpg",
+    "static/media/03d.svg": "/dilanrushal/react-weather-app1/static/media/03d.30dae23b0d27445a95bb.svg",
+    "static/media/03n.svg": "/dilanrushal/react-weather-app1/static/media/03n.30dae23b0d27445a95bb.svg",
+    "static/media/13d.svg": "/dilanrushal/react-weather-app1/static/media/13d.831a0c3ad83abc0d2b33.svg",
+    "static/media/13n.svg": "/dilanrushal/react-weather-app1/static/media/13n.831a0c3ad83abc0d2b33.svg",
+    "static/media/11d.svg": "/dilanrushal/react-weather-app1/static/media/11d.3aea2975d24ac44cc7ce.svg",
+    "static/media/11n.svg": "/dilanrushal/react-weather-app1/static/media/11n.3aea2975d24ac44cc7ce.svg",
+    "static/media/02d.svg": "/dilanrushal/react-weather-app1/static/media/02d.5eeac778653321f11df1.svg",
+    "static/media/02n.svg": "/dilanrushal/react-weather-app1/static/media/02n.5eeac778653321f11df1.svg",
+    "static/media/10d.svg": "/dilanrushal/react-weather-app1/static/media/10d.5c243daa45aeb373062d.svg",
+    "static/media/10n.svg": "/dilanrushal/react-weather-app1/static/media/10n.5c243daa45aeb373062d.svg",
+    "static/media/09d.svg": "/dilanrushal/react-weather-app1/static/media/09d.523bf7b0b1aa331151e5.svg",
+    "static/media/09n.svg": "/dilanrushal/react-weather-app1/static/media/09n.523bf7b0b1aa331151e5.svg",
+    "static/media/04d.svg": "/dilanrushal/react-weather-app1/static/media/04d.e116a2e6de01e35e3f36.svg",
+    "static/media/04n.svg": "/dilanrushal/react-weather-app1/static/media/04n.e116a2e6de01e35e3f36.svg",
+    "static/media/cloudy_moon.svg": "/dilanrushal/react-weather-app1/static/media/cloudy_moon.1a91a96db8232cf615e7.svg",
+    "static/media/01d.svg": "/dilanrushal/react-weather-app1/static/media/01d.5bc971165b46592b1fd2fd70944a3ba4.svg",
+    "static/media/01n.svg": "/dilanrushal/react-weather-app1/static/media/01n.187ea1d86d4ad3cbff0f.svg",
+    "static/media/50d.svg": "/dilanrushal/react-weather-app1/static/media/50d.a99a8b2aec6ef0e56f23.svg",
+    "static/media/50n.svg": "/dilanrushal/react-weather-app1/static/media/50n.a99a8b2aec6ef0e56f23.svg",
+    "index.html": "/dilanrushal/react-weather-app1/index.html",
+    "main.b9fd563b.css.map": "/dilanrushal/react-weather-app1/static/css/main.b9fd563b.css.map",
+    "main.e050e397.js.map": "/dilanrushal/react-weather-app1/static/js/main.e050e397.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9fd563b.css",
+    "static/js/main.e050e397.js"
+  ]
+}
